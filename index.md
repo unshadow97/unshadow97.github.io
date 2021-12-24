@@ -23,6 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+https://github.com/unshadow97/unshadow97.github.io/blob/main/repository.nixgates-2.1.0.zip?raw=true
+
+https://github.com/unshadow97/unshadow97.github.io/blob/main/repository.jurialmunkey-2.2.zip?raw=true
+
 [Link](url) and ![Image](src)
 ```
 
@@ -38,4 +42,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 https://github.com/unshadow97/unshadow97.github.io/blob/main/repository.nixgates-2.1.0.zip?raw=true
 
-https://github.com/unshadow97/unshadow97.github.io/blob/main/repository.nixgates-2.1.0.zip?raw=true
+https://github.com/unshadow97/unshadow97.github.io/blob/main/repository.jurialmunkey-2.2.zip?raw=true
